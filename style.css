@@ -1,0 +1,40 @@
+   /* Reset     */
+   *  {margin: 0;
+    padding: 0;}
+
+    ul { list-style: none;}
+
+
+     /*Codigo Pagina*/
+div {width: 80%;
+    border: 0.2rem solid red;}
+
+nav {width: 80%;
+   height: 10rem;
+   background-color: black;
+  
+}
+
+ul {height: 10rem;
+   display: flex;
+   justify-content:flex-end;
+   align-items:flex-start;}
+
+li {margin-left: 0.5rem;}
+
+
+
+header {
+   width: 80%;
+   height: 20rem;
+   background-color: aqua;
+ 
+
+
+}
+.centrar {margin: 0 auto;
+}
+
+
+li {color: white;
+   font-size: 1.5rem;}
